@@ -40,4 +40,16 @@
 }
 
 
-/*TEXT EFFECTS*/
+/*MOVE ANIMATION EFFECTS*/
+
+.card {
+    transition: transform 250ms;
+  }
+  
+  .card:hover {
+    transform: translateY(-20px);
+  }
+
+  .card-img-top:hover{
+    background-color: rgb(166, 235, 54);
+  }
