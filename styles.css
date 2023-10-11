@@ -1,13 +1,13 @@
 
 #background{
-    background-image: linear-gradient(rgba(0,0,50,0.8),rgba(0,0,50,0.8)), url("op_wallpaper.jpg");
+    background-image: linear-gradient(rgba(0,0,50,0.8),rgba(0,0,50,0.8)), url("./assets/op_wallpaper.jpg");
     border-radius: 10px;
     border: 5px solid greenyellow;
     margin-top: 50px;
 }
 
 #mainbg{
-    background-image: url("mainBG.jpg");
+    background-image: url("./assets/mainBG.jpg");
     background-size: cover;
 }
 
@@ -21,16 +21,16 @@
 }
 
 #zoan{
-    background-image: url("bgzoan.jpg");
+    background-image: url("./assets/bgzoan.jpg");
     background-size: cover;
 }
 
 #paramecia{
-    background-image: url("bg2.jpg");
+    background-image: url("./assets/bg2.jpg");
     background-size: cover;
 }
 #logia{
-    background-image: url("logiaBG.jpg");
+    background-image: url("./assets/logiaBG.jpg");
     background-size: cover;
 }
 
@@ -38,7 +38,6 @@
     background-color: rgb(255, 167, 4);
     border-radius: 3px;
 }
-
 
 /*MOVE ANIMATION EFFECTS*/
 
@@ -54,4 +53,3 @@
     background-color: rgb(166, 235, 54);
   }
 
- 
